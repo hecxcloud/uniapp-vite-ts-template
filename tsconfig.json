@@ -1,6 +1,10 @@
 {
   "extends": "@vue/tsconfig/tsconfig.json",
   "compilerOptions": {
+    // 修复：替换弃用的选项
+    "verbatimModuleSyntax": true,
+    // 修复：添加忽略弃用警告的选项
+    "ignoreDeprecations": "5.0",
     "sourceMap": true,
     "baseUrl": ".",
     "paths": {

@@ -9,7 +9,7 @@ git clone https://github.com/hecxcloud/uniapp-vite-ts-template.git
 更新 uniapp 依赖(可选)
 
 ```shell
-npx @dcloudio/uvm@latest alpha
+npx @dcloudio/uvm@latest
 ```
 
 依赖安装
