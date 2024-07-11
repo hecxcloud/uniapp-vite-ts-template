@@ -1,0 +1,9 @@
+{
+  "uniapp-view": {
+    "prefix": "view",
+    "body": [
+      "<view>$1</view>",
+    ],
+    "description": "uniapp-view"
+  }
+}
