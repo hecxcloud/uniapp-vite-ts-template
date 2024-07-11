@@ -1,0 +1,33 @@
+{
+  "uniapp-vue3 template": {
+    "prefix": "uniapp-vue3",
+    "body": [
+      "<script setup lang=\"ts\">",
+      "import { onLoad, onReady, onShow, onHide, onUnload } from \"@dcloudio/uni-app\";\n",
+      "defineOptions({",
+      "\tname: \"$1\"",
+      "});\n",
+      "onLoad(() => {",
+      "\tconsole.log(\"onLoad\");",
+      "});\n",
+      "onReady(() => {",
+      "\tconsole.log(\"onReady\");",
+      "});\n",
+      "onShow(() => {",
+      "\tconsole.log(\"onShow\");",
+      "});\n",
+      "onHide(() => {",
+      "\tconsole.log(\"onHide\");",
+      "});\n",
+      "onUnload(() => {",
+      "\tconsole.log(\"onUnload\");",
+      "});",
+      "</script>\n",
+      "<template>",
+      "\t<div>uniapp-vue3</div>",
+      "</template>\n",
+      "<style lang=\"scss\" scoped></style>"
+    ],
+    "description": "uniapp-vue3 template"
+  }
+}

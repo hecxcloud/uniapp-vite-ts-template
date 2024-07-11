@@ -4,6 +4,9 @@
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode",
         "stylelint.vscode-stylelint",
-        "chakrounanas.turbo-console-log"
+        "chakrounanas.turbo-console-log",
+        "uni-helper.uni-app-snippets-vscode",
+        "uni-helper.uni-app-schemas-vscode",
+        "mrmaoddxxaa.create-uniapp-view"
     ]
 }
