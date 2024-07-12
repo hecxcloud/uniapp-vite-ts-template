@@ -81,6 +81,12 @@ export default {
         "rules"
       ],
       { severity: "warning" }
+    ],
+    "selector-type-no-unknown": [
+      true,
+      {
+        ignoreTypes: ["/^page/"]
+      }
     ]
   },
   ignoreFiles: ["**/*.js", "**/*.ts", "**/*.jsx", "**/*.tsx", "report.html"]
