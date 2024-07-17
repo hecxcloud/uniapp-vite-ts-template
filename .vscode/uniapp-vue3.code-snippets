@@ -24,7 +24,7 @@
       "});",
       "</script>\n",
       "<template>",
-      "\t<div>uniapp-vue3</div>",
+      "\t<view>uniapp-vue3</view>",
       "</template>\n",
       "<style lang=\"scss\" scoped></style>"
     ],
